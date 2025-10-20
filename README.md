@@ -1,5 +1,5 @@
 # vizionsdk_c
-vizionsdk_c is a software development kit for C wrapped from the original VizionSDK C++ implementation. It supports various versions of .NET on Windows platforms.
+vizionsdk_c is a C software development kit wrapped from the original VizionSDK C++ implementation, available for both Windows and Linux platforms.
 
 ## What is included in the repository
 - `samples/` : C samples project source code.
