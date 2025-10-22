@@ -35,7 +35,8 @@ Download vizionsdk_c from the [vizionsdk_c Download Page](https://github.com/Tec
 - Github Pages: https://github.com/TechNexion
 - VizionSDK Overview: https://developer.technexion.com/docs/vision-software/vizionsdk
 - VizionSDK C Installation: https://developer.technexion.com/docs/vision-software/vizionsdk/c/vizionsdk-c-installation
-- VizionSDK API User Guide: https://developer.technexion.com/docs/category/recommended-api-v25041
+- VizionSDK API User Guide: https://developer.technexion.com/docs/category/vizionsdk-api
 
 ## Related links
+
 - [Technexion Main Page](https://www.technexion.com/)
