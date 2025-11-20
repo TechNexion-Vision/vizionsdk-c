@@ -6,7 +6,7 @@ vizionsdk_c is a C software development kit wrapped from the original VizionSDK 
 - `config/` : Configuration resources for TechNexion camera series, including:
   - **VxConfig**: A configuration file used by vizionsdk_c to recognize TechNexion camera series.
   - **VxExposure**: A YAML file defining the default minimum and maximum exposure time values for each sensor and resolution.
-  - **RouteConfig**: A folder containing media route YAML file templates.
+  - **route_config**: A folder containing media route YAML file templates.
   
 ## How to Install vizionsdk_c
 Download vizionsdk_c from the [vizionsdk_c Download Page](https://github.com/TechNexion-Vision/vizionsdk/releases)
