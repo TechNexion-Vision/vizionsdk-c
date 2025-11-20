@@ -20,6 +20,7 @@ Download vizionsdk_c from the [vizionsdk_c Download Page](https://github.com/Tec
 - NVIDIA Jetson (JetPack6 or later)
 - NXP-i.MX8MM, NXP-i.MX8MQ, NXP-i.MX8MP, NXP-i.MX93, NXP-i.MX95
 - TI-TDA4VM
+- Raspberry Pi 4, Raspberry Pi 5
 
 ## Documents
 - Github Pages: https://github.com/TechNexion
